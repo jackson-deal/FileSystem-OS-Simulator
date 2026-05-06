@@ -41,6 +41,5 @@ This project utilizes `Microsoft.VisualBasic` to handle input prompts:
 
 ---
 
-## 👤 Author
 **Jackson Deal**  
 Kennesaw State University | Computer Science
