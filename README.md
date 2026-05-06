@@ -2,14 +2,14 @@
 
 This application is a functional **File System Simulator** built using **C#** and **Windows Forms**. It serves as a practical demonstration of core Operating System concepts, specifically focusing on how low-level file operations are managed and presented to the user.
 
-## 🌟 Key Concepts Demonstrated
+## Key Concepts Demonstrated
 *   **File Handles & Management:** Simulates the creation, opening, and closing of file streams within a controlled environment.
 *   **Directory Navigation:** Implements a hierarchical structure for browsing local directories.
 *   **POSIX-Style Error Handling:** Maps standard .NET exceptions to traditional POSIX error codes for a more authentic OS simulation experience.
 
 ---
 
-## 🚀 Build & Run Instructions
+## Build & Run Instructions
 
 To build and run this project locally, follow these steps:
 
